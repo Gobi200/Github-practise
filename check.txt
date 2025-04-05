@@ -1,1 +1,1 @@
-This file is for checking. Created and updated in git.
+This file is for checking. To check it. Created and updated in git.
